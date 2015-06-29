@@ -4,7 +4,7 @@
     <body>
         <ul>
             <li> a </li>
-            <li> b </li>
+            <li> juan is bananas! </li>
             <li> c </li>
             <li> d </li>
             <li> e </li>
